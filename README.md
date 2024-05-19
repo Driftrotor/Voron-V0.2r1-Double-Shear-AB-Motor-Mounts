@@ -4,6 +4,8 @@ This mod was born out of wanting to really make the motion system as robust as p
 After working on the PIN mods to tighten up the free play with the bearing stacks i concentrated on making the Motors work more efficiently.
 Double Shear was the way to go forwards with this as it removes a huge amount of stress from the motor shaft.
 
+![Screenshot (220)](https://github.com/Driftrotor/Voron-V0.2r1-Double-Shear-AB-Motor-Mounts/assets/94327757/dea9af0e-69c0-40a9-81de-71509f1199ca)
+
 This is V1 of such a mod and after testing for over a month now with good results.
 
 motors run cooler, even with the same current values
